@@ -1,5 +1,12 @@
 # Pure CS
 
+## Books
+- [ ] Michael Sipser - [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/ref=sr_1_1?s=books&ie=UTF8&qid=1315273796&sr=1-1).
+- [ ] Ming Li and Paul Vitanyi - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981/ref=sr_1_1?ie=UTF8&qid=1315403140&sr=8-1).
+- [ ] Christos Papadimitriou - [Computational Complexity](https://www.amazon.com/Computational-Complexity-Christos-H-Papadimitriou/dp/0201530821/ref=sr_1_1?s=books&ie=UTF8&qid=1315273863&sr=1-1).
+- [ ] Christos Papadimitriou - [Turing (A Novel About Computation)](https://www.amazon.com/Turing-Novel-Computation-Christos-Papadimitriou/dp/0262661918/ref=sr_1_1?s=books&ie=UTF8&qid=1315273937&sr=1-1).
+
+## Papers
 - [ ] [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf).
 - [ ] [On Universal Prediction and Bayesian Confirmation](http://arxiv.org/pdf/0709.1516).
 - [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
