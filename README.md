@@ -4,6 +4,8 @@
 
 ## Online Courses
  - [ ] Carnegie Mellon - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
+ - [ ] Carengie Mellon - [Convex Optimization](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC).
+ - [ ] Princeton - [Convex and Conic Optimization](http://aaa.princeton.edu/orf523).
 
 ## Books
 - [ ] Michael Sipser - [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/ref=sr_1_1?s=books&ie=UTF8&qid=1315273796&sr=1-1).
