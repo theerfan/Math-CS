@@ -6,6 +6,7 @@
  - [ ] Carnegie Mellon - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
  - [ ] Carengie Mellon - [Convex Optimization](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC).
  - [ ] Princeton - [Convex and Conic Optimization](http://aaa.princeton.edu/orf523).
+ - [ ] Cornell - [Machine Learning Theory](http://www.cs.cornell.edu/courses/cs6783/2019fa/).
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
 
 ## Books
