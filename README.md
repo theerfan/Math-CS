@@ -2,6 +2,9 @@
 
 [Watch this!](https://stellar.mit.edu/courseguide/)
 
+## Online Courses
+ - [ ] Carnegie Mellon - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
+
 ## Books
 - [ ] Michael Sipser - [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/ref=sr_1_1?s=books&ie=UTF8&qid=1315273796&sr=1-1).
 - [ ] Ming Li and Paul Vitanyi - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981/ref=sr_1_1?ie=UTF8&qid=1315403140&sr=8-1).
