@@ -1,10 +1,12 @@
 # Pure CS
 
 [Watch this!](https://stellar.mit.edu/courseguide/)
+[this](http://www.cs.cmu.edu/~avrim/courses.html).
 
 ## Online Courses
- - [ ] Carnegie Mellon - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
- - [ ] Carengie Mellon - [Convex Optimization](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC).
+ - [ ] CMU - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
+ - [ ] CMU - [Convex Optimization](https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC).
+ - [ ] CMU - [Foundations of Machine Learning and Data Science](http://www.cs.cmu.edu/~ninamf/courses/806/10-806-index.html).
  - [ ] Princeton - [Convex and Conic Optimization](http://aaa.princeton.edu/orf523).
  - [ ] Cornell - [Machine Learning Theory](http://www.cs.cornell.edu/courses/cs6783/2019fa/).
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
