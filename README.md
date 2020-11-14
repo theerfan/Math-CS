@@ -1,6 +1,6 @@
 # Pure CS
 
-[Watch this!](https://stellar.mit.edu/courseguide/)
+[Watch this!](https://stellar.mit.edu/courseguide/) -
 [this](http://www.cs.cmu.edu/~avrim/courses.html).
 
 ## Online Courses
