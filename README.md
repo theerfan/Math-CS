@@ -1,7 +1,7 @@
 # Pure CS
 
-[Watch this!](https://stellar.mit.edu/courseguide/) -
-[this](http://www.cs.cmu.edu/~avrim/courses.html).
+[Watch this!](https://stellar.mit.edu/courseguide/) - [this](http://www.cs.cmu.edu/~avrim/courses.html) - 
+[this](http://www.davidpwilliamson.net/work/course/).
 
 ## Online Courses
  - [ ] CMU - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
@@ -9,6 +9,7 @@
  - [ ] CMU - [Foundations of Machine Learning and Data Science](http://www.cs.cmu.edu/~ninamf/courses/806/10-806-index.html).
  - [ ] Princeton - [Convex and Conic Optimization](http://aaa.princeton.edu/orf523).
  - [ ] Cornell - [Machine Learning Theory](http://www.cs.cornell.edu/courses/cs6783/2019fa/).
+ - [ ] Cornell - [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016/).
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
 
 ## Books
