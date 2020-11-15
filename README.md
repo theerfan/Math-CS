@@ -13,10 +13,10 @@
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
 
 ## Books
-- [ ] Michael Sipser - [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/0534950973/ref=sr_1_1?s=books&ie=UTF8&qid=1315273796&sr=1-1).
-- [ ] Ming Li and Paul Vitanyi - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.amazon.com/Introduction-Kolmogorov-Complexity-Applications-Computer/dp/0387339981/ref=sr_1_1?ie=UTF8&qid=1315403140&sr=8-1).
-- [ ] Christos Papadimitriou - [Computational Complexity](https://www.amazon.com/Computational-Complexity-Christos-H-Papadimitriou/dp/0201530821/ref=sr_1_1?s=books&ie=UTF8&qid=1315273863&sr=1-1).
-- [ ] Christos Papadimitriou - [Turing (A Novel About Computation)](https://www.amazon.com/Turing-Novel-Computation-Christos-Papadimitriou/dp/0262661918/ref=sr_1_1?s=books&ie=UTF8&qid=1315273937&sr=1-1).
+- [ ] Michael Sipser - [Introduction to the Theory of Computation](https://notendur.hi.is/mae46/Haskolinn/5.%20misseri%20-%20Haust%202018/Formleg%20ma%CC%81l%20og%20reiknanleiki/Introduction%20to%20the%20theory%20of%20computation_third%20edition%20-%20Michael%20Sipser.pdf).
+- [ ] Ming Li and Paul Vitanyi - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.goodreads.com/book/show/1105208.An_Introduction_to_Kolmogorov_Complexity_and_Its_Applications).
+- [ ] Christos Papadimitriou - [Computational Complexity](https://www.goodreads.com/book/show/138562.Computational_Complexity).
+ - [ ] Christopher Bishop - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 
 ## Papers
 - [ ] [Graphical Models in a Nutshell](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf).
