@@ -19,6 +19,7 @@
 - [ ] Christos Papadimitriou - [Turing (A Novel About Computation)](https://www.amazon.com/Turing-Novel-Computation-Christos-Papadimitriou/dp/0262661918/ref=sr_1_1?s=books&ie=UTF8&qid=1315273937&sr=1-1).
 
 ## Papers
+- [ ] [Graphical Models in a Nutshell](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf).
 - [ ] [Computing Arbitrary Functions of Encrypted Data](https://crypto.stanford.edu/craig/easy-fhe.pdf).
 - [ ] [On Universal Prediction and Bayesian Confirmation](http://arxiv.org/pdf/0709.1516).
 - [ ] [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf).
