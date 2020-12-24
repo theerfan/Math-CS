@@ -11,6 +11,7 @@
  - [ ] Cornell - [Machine Learning Theory](http://www.cs.cornell.edu/courses/cs6783/2019fa/).
  - [ ] Cornell - [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016/).
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
+ - [ ] Boaz Barak - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/lec_10_public_key_intro.html#sampling-random-primes).
 
 ## Books
 - [ ] Stephen Boyd and Lieven Vandenberghe - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
