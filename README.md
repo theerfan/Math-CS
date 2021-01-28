@@ -18,6 +18,7 @@
  - [ ] Matus Telgarsky - [Deep Learning Theory](https://mjt.cs.illinois.edu/dlt/).
  - [ ] Percy Liang - [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/).
  - [ ] Harvard - [New Technologies in Mathematics Seminar Series](https://cmsa.fas.harvard.edu/tech-in-math/).
+ - [ ] Kevin Buzzard - [The Future of Mathematics?](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
 
 ## Books
 - [ ] Stephen Boyd and Lieven Vandenberghe - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
