@@ -12,6 +12,12 @@
  - [ ] Cornell - [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016/).
  - [ ] Stanford - [Convex Optimization I](https://web.stanford.edu/class/ee364a/).
  - [ ] Boaz Barak - [An Intensive Introduction to Cryptography](https://intensecrypto.org/public/lec_10_public_key_intro.html#sampling-random-primes).
+ - [ ] Roger Grosse - [Topics in Machine Learning: Neural Net Training Dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/).
+ - [ ] Jimmmy Ba - [Neural Networks and Deep Learning](https://csc413-2020.github.io/).
+ - [ ] Akshay Krishnamurthy - [Machine Learning Theory](https://people.cs.umass.edu/~akshay/courses/cs690m/index.html).
+ - [ ] Matus Telgarsky - [Deep Learning Theory](https://mjt.cs.illinois.edu/dlt/).
+ - [ ] Percy Liang - [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/).
+ - [ ] Harvard - [New Technologies in Mathematics Seminar Series](https://cmsa.fas.harvard.edu/tech-in-math/).
 
 ## Books
 - [ ] Stephen Boyd and Lieven Vandenberghe - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
@@ -19,6 +25,7 @@
 - [ ] Ming Li and Paul Vitanyi - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.goodreads.com/book/show/1105208.An_Introduction_to_Kolmogorov_Complexity_and_Its_Applications).
 - [ ] Christos Papadimitriou - [Computational Complexity](https://www.goodreads.com/book/show/138562.Computational_Complexity).
 - [ ] Christopher Bishop - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
+- [ ] John von Neumann - [Theory of Self-Reproducing Automata](https://www.goodreads.com/book/show/7530868-theory-of-self-reproducing-automata).
 
 ## Papers
 - [ ] [Graphical Models in a Nutshell](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf).
@@ -39,3 +46,10 @@
 - [ ] [Evolvability](https://dash.harvard.edu/bitstream/handle/1/2643031/Valiant_Evolvability.pdf).
 - [ ] [P, NP and Mathematics](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/W06/w06.pdf).
 - [ ] [Knowledge, Creativity, and P versus NP](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/AW09/AW09.pdf).
+- [ ] [Weak quasi-factorization for the Belavkin-Staszewski relative entropy](https://arxiv.org/abs/2101.10312).
+
+## Misc.
+
+- [Doing Research](https://cameroncounts.wordpress.com/2009/11/11/doing-research/).
+- [What precisely Is “Categorification”?](https://mathoverflow.net/questions/4841/what-precisely-is-categorification).
+- [Topology 101: The Hole Truth](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/).
