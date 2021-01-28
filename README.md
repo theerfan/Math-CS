@@ -19,6 +19,7 @@
  - [ ] Percy Liang - [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/).
  - [ ] Harvard - [New Technologies in Mathematics Seminar Series](https://cmsa.fas.harvard.edu/tech-in-math/).
  - [ ] Kevin Buzzard - [The Future of Mathematics?](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
+ - [ ] Formalizing Mathematics - [GitHub](https://github.com/ImperialCollegeLondon/formalising-mathematics) - [WordPress](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
 
 ## Books
 - [ ] Stephen Boyd and Lieven Vandenberghe - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
@@ -54,3 +55,4 @@
 - [Doing Research](https://cameroncounts.wordpress.com/2009/11/11/doing-research/).
 - [What precisely Is “Categorification”?](https://mathoverflow.net/questions/4841/what-precisely-is-categorification).
 - [Topology 101: The Hole Truth](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/).
+- [Higher-order Network Analysis Takes Off, Fueled by Old Ideas and New Data](https://sinews.siam.org/Details-Page/higher-order-network-analysis-takes-off-fueled-by-old-ideas-and-new-data).
