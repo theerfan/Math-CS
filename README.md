@@ -20,6 +20,14 @@
  - [ ] Harvard - [New Technologies in Mathematics Seminar Series](https://cmsa.fas.harvard.edu/tech-in-math/).
  - [ ] Kevin Buzzard - [The Future of Mathematics?](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
  - [ ] Formalizing Mathematics - [GitHub](https://github.com/ImperialCollegeLondon/formalising-mathematics) - [WordPress](https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/)
+ - [ ] [Bo’az Klartag: On Yuansi Chen’s work on the KLS conjecture I](https://www.youtube.com/watch?v=smhBS1t_ul4&feature=youtu.be).
+ - [ ] [Illustrating Mathematics](https://www.amazon.com/Illustrating-Mathematics-Diana-Davis/dp/1470461226?sa-no-redirect=1&pldnSite=1).
+ - [ ] Stanford - [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html).
+ - [ ] [JHU's advanced data science](https://jhuadvdatasci.substack.com/).
+ - [ ] [Winter School on "The Interplay between High-Dimensional Geometry and Probability"](https://www.him.uni-bonn.de/programs/current-trimester-program/interplay-high-dimensional-geometry-probability/interplay-high-dimensional-geometry-probability-winterschool/).
+ - [ ] [Coding Theory and Applications](https://user.eng.umd.edu/~abarg/ECC/).
+ - [ ] [Modern Discrete Probability](https://user.eng.umd.edu/~abarg/MDP/).
+
 
 ## Books
 - [ ] Stephen Boyd and Lieven Vandenberghe - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
@@ -28,6 +36,10 @@
 - [ ] Christos Papadimitriou - [Computational Complexity](https://www.goodreads.com/book/show/138562.Computational_Complexity).
 - [ ] Christopher Bishop - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf).
 - [ ] John von Neumann - [Theory of Self-Reproducing Automata](https://www.goodreads.com/book/show/7530868-theory-of-self-reproducing-automata).
+- [ ] [Understanding and Using Linear Programming](https://www.springer.com/gp/book/9783540306979).
+- [ ] Oded Goldreich - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc.html).
+- [ ] [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/).
+
 
 ## Papers
 - [ ] [Graphical Models in a Nutshell](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf).
@@ -56,3 +68,6 @@
 - [What precisely Is “Categorification”?](https://mathoverflow.net/questions/4841/what-precisely-is-categorification).
 - [Topology 101: The Hole Truth](https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/).
 - [Higher-order Network Analysis Takes Off, Fueled by Old Ideas and New Data](https://sinews.siam.org/Details-Page/higher-order-network-analysis-takes-off-fueled-by-old-ideas-and-new-data).
+- [ ] [Mathematicians Resurrect Hilbert’s 13th Problem](https://www.quantamagazine.org/mathematicians-probe-unsolved-hilbert-polynomial-problem-20210114/).
+- [ ] [ML Theory with bad drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/amp/?__twitter_impression=true).
+- [ ] [Statistics of Basketball Scoring and Lead Changes by Sidney Redner](https://www.youtube.com/watch?v=z668bIC3fmA&ab_channel=InternationalCentreforTheoreticalSciences).
