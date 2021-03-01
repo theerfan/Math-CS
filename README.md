@@ -72,3 +72,4 @@
 - [ ] [Mathematicians Resurrect Hilbert’s 13th Problem](https://www.quantamagazine.org/mathematicians-probe-unsolved-hilbert-polynomial-problem-20210114/).
 - [ ] [ML Theory with bad drawings](https://windowsontheory.org/2021/01/15/ml-theory-with-bad-drawings/amp/?__twitter_impression=true).
 - [ ] [Statistics of Basketball Scoring and Lead Changes by Sidney Redner](https://www.youtube.com/watch?v=z668bIC3fmA&ab_channel=InternationalCentreforTheoreticalSciences).
+- [ ] [https://mathworld.wolfram.com/SchanuelsConjecture.html](https://mathworld.wolfram.com/SchanuelsConjecture.html).
