@@ -39,6 +39,7 @@
 - [ ] [Understanding and Using Linear Programming](https://www.springer.com/gp/book/9783540306979).
 - [ ] Oded Goldreich - [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc.html).
 - [ ] [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/).
+- [ ] Theodore G. Faticoni - [The Mathematics of Infinity](https://www.goodreads.com/book/show/1549798.The_Mathematics_of_Infinity).
 
 
 ## Papers
