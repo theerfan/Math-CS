@@ -62,6 +62,7 @@
 - [ ] [P, NP and Mathematics](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/W06/w06.pdf).
 - [ ] [Knowledge, Creativity, and P versus NP](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/AW09/AW09.pdf).
 - [ ] [Weak quasi-factorization for the Belavkin-Staszewski relative entropy](https://arxiv.org/abs/2101.10312).
+- [ ] [Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication](https://www.science.org/doi/abs/10.1126/science.1091277).
 
 ## Misc.
 
