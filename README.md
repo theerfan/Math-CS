@@ -1,7 +1,27 @@
-# Pure CS
+# Math & CS
 
 [Watch this!](https://stellar.mit.edu/courseguide/) - [this](http://www.cs.cmu.edu/~avrim/courses.html) - 
 [this](http://www.davidpwilliamson.net/work/course/).
+
+[I'm trying to revamp this thing, so let's go.]
+
+## Real Analysis
+- [ ] Online Course: MIT - [Real Analysis OCW](https://ocw.mit.edu/courses/18-100c-real-analysis-fall-2012/)
+
+## Information Theory
+- [ ] Book: David J. McCay - Information Theory, Inference and Learning Algorithms
+- [ ] Online Course (resources only): Stanford University - [EE 376A](https://web.stanford.edu/class/ee376a/reading.html)
+
+## Category Theory (Quantum-flavored)
+- [ ] Book: Bob Coecke and Aleks Kissinger - Picturing Quantum Processes
+- [ ] Papers: The ones suggested in [this videp](https://www.youtube.com/watch?v=5694S6hceJE&list=PL_hJxz_HrXxt4C_Cf_BFie4BAJiYgrDOu&index=19)
+
+## Group Theory
+
+- [ ] Online Course: Harvard - [Math 122](http://wayback.archive-it.org/3671/20150528171650/https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra)
+- [ ] Online Courses (of the above): [Youtube](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
+
+- [ ] Book: ...
 
 ## Online Courses
  - [ ] CMU - [Statistical Machine Learning](http://www.stat.cmu.edu/~ryantibs/statml/).
